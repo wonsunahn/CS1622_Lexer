@@ -1,4 +1,9 @@
 %{
+/** Code by @author Wonsun Ahn, Fall 2024
+ * 
+ * The lexer implementation file.
+ */
+
 #include <stdlib.h>
 #include "token.h"
 

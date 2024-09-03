@@ -1,3 +1,8 @@
+/** Code by @author Wonsun Ahn, Fall 2024
+ * 
+ * The lexer test driver file.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "token.h"

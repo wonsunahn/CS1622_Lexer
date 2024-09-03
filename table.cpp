@@ -1,3 +1,8 @@
+/** Code by @author Wonsun Ahn, Fall 2024
+ * 
+ * The string table implementation file.
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <string>
