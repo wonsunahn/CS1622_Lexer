@@ -1,0 +1,16 @@
+Line	Column	Token           	Lexeme
+1	3	IFnum           
+1	8	ELSEnum         
+2	6	VOIDnum         
+2	13	CLASSnum        
+2	29	IDnum           	0
+2	33	VALnum          
+4	8	INTnum          
+4	15	IDnum           	16
+4	19	INTnum          
+4	20	MINUSnum        
+4	26	RETURNnum       
+4	32	IDnum           	23
+4	32	EOFnum          
+
+String Table : Enddeclarations intint WHILE 

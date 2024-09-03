@@ -1,0 +1,10 @@
+Line	Column	Token           	Lexeme
+3	5	IDnum           	0
+3	8	IDnum           	5
+3	12	IDnum           	8
+3	14	IDnum           	12
+3	22	IDnum           	14
+3	23	DOTnum          
+5	22	EOFnum          
+
+String Table : This is not a comment 

@@ -1,0 +1,17 @@
+Line	Column	Token           	Lexeme
+6	32	IDnum           	0
+6	37	IDnum           	4
+6	42	IDnum           	9
+6	45	IDnum           	14
+6	49	IDnum           	17
+6	50	NOTnum          
+6	52	TIMESnum        
+6	53	DIVIDEnum       
+8	5	IDnum           	21
+8	17	IDnum           	26
+8	22	IDnum           	38
+8	23	DOTnum          
+Error: EOF found in comment, at line 10 column 26
+10	26	EOFnum          
+
+String Table : But this part is not Some intervening code 

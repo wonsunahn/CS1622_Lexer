@@ -1,0 +1,14 @@
+Line	Column	Token           	Lexeme
+1	13	IDnum           	0
+1	18	IDnum           	13
+3	4	IDnum           	18
+3	10	CLASSnum        
+4	4	IDnum           	22
+5	5	IDnum           	26
+5	12	IDnum           	31
+5	19	IDnum           	38
+6	5	IDnum           	44
+6	13	METHODnum       
+7	1	EOFnum          
+
+String Table : dEclarations myid abd AbD klse reTurn claSs voiD 

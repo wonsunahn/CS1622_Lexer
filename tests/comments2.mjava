@@ -1,0 +1,10 @@
+/* This is a multiline comment.  Why?
+
+   Because it has multiple lines.
+   */
+
+/* This is a comment. */    But this part is not! */
+
+Some intervening code.
+
+/* This is not a comment.

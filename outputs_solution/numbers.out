@@ -1,0 +1,14 @@
+Line	Column	Token           	Lexeme
+1	2	ICONSTnum       	0
+1	6	ICONSTnum       	123
+1	8	MINUSnum        
+1	10	ICONSTnum       	34
+1	13	ICONSTnum       	32
+1	14	DOTnum          
+1	17	ICONSTnum       	354
+1	22	ICONSTnum       	101
+Error: Malformed identifier '01abc', at line 2 column 1
+Error: Malformed identifier '1a1b', at line 2 column 7
+2	11	EOFnum          
+
+String Table : 

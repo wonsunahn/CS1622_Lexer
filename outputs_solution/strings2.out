@@ -1,0 +1,14 @@
+Line	Column	Token           	Lexeme
+2	2	ICONSTnum       	9
+2	7	ASSGNnum        
+2	9	LTnum           
+Error: Malformed identifier '55alf', at line 4 column 1
+Error: Unmatched string constant, at line 4 column 6
+5	15	SCONSTnum       	0
+Error: Unmatched string constant, at line 5 column 15
+7	3	SCONSTnum       	9
+Error: Undefined token '|', at line 8 column 1
+10	1	EOFnum          
+
+String Table : ab
+	\'cd  

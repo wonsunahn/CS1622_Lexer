@@ -1,0 +1,18 @@
+Line	Column	Token           	Lexeme
+1	7	IDnum           	0
+1	11	IDnum           	7
+1	12	MINUSnum        
+1	15	IDnum           	11
+1	22	IDnum           	15
+1	29	IDnum           	22
+1	36	IDnum           	29
+2	3	IDnum           	36
+2	4	MINUSnum        
+2	6	IDnum           	39
+2	8	IDnum           	42
+2	9	MINUSnum        
+Error: Malformed identifier '3po', at line 2 column 9
+Error: Malformed identifier 'back_2_school', at line 2 column 13
+2	26	EOFnum          
+
+String Table : pacman pac man pacMan PacMan PACMAN r2 d2 c 
