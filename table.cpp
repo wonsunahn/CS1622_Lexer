@@ -14,6 +14,7 @@ extern "C" int yylval;
 
 static std::unordered_map<std::string, int> hashTable;  /* Hash table mapping strings to indices in the string table */
 static char stringTable[STRTBL_LEN] = {STR_SPRTR};      /* String table of length STRTBL_LEN */
+static int stringTableEndIndex = 0;                    /* End of the string table */
 
 /* TODO: Add additional variable definitions as needed. */
 
