@@ -21,9 +21,10 @@ token.o: token.c token.h
 table.o  : table.cpp
 	$(C++) -g -c table.cpp
 lex.yy.o : lex.yy.c 
-	$(CC) -g -c lex.yy.c 
+	$(CC) -g -c lex.yy.c
+# Add -d in front of -L for verbose debug output.
 lex.yy.c: lex.l token.h
-	$(FLEX) lex.l
+	$(FLEX) -L lex.l
 
 define test_rules
 outputs/$(1:tests/%.mjava=%).out: lexer $(1)
